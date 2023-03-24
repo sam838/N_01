@@ -1,0 +1,12 @@
+{
+  "name": "N_01",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1"
+  }
+}
